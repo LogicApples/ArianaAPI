@@ -1,0 +1,21 @@
+{
+    "name": "ariana.js",
+    "version": "2.2.22",
+    "description": "This is an api that spits out a random picture of Ariana Grande.",
+    "main": "index.js",
+    "scripts": {},
+    "author": "logicapples",
+    "license": "ISC",
+    "dependencies": {
+        "node-fetch": "^2.6.1"
+    },
+    "keywords": [
+        "ariana",
+        "Ariana Grande",
+        "ariana.js",
+        "JavaScript",
+        "node.js",
+        "API wrapper",
+        "API"
+    ]
+}
